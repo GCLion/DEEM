@@ -66,3 +66,11 @@ We provide pre-trained models for different datasets  in the 'model' folder.
 - Decoupled feature-based classifier model for dataset 'FoR': `FoR.pth`
 - Decoupled feature-based classifier model for dataset 'ASVSpoof2019LA': `ASV.pth`
 
+## Citation
+If you use this package and find it useful, please cite our paper using the following BibTeX. Thanks! :)
+```
+@article{beidiscriminative,
+  title={Discriminative Feature Decoupling Enhancement for Speech Forgery Detection},
+  author={Bei, Yijun and Zhou, Xing and Liu, Erteng and Gao, Yang and Lin, Sen and Gao, Kewei and Feng, Zunlei}
+}
+```
