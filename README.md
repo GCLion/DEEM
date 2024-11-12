@@ -1,6 +1,6 @@
 # DEEM
 
-We provide the code detail files and related model files for the method DEEM mentioned in the paper “Discriminative Feature Decoupling Enhancement for Speech Forgery Detection”.
+We provide the code detail files and related model files for the method DEEM mentioned in the paper “[Discriminative Feature Decoupling Enhancement for Speech Forgery Detection](https://www.ijcai.org/proceedings/2024/0038.pdf)”.
 
 ## Intro
 - The purpose of this code project file is to build the DEEM algorithm needed for forged voice detection. The core idea of this algorithm is to decouple the foreground and background related features through feature decoupling, and to strengthen the decoupled features through graph attention mechanism, in order to achieve stronger and broader forged voice detection effects.
